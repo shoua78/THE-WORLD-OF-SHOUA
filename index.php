@@ -33,6 +33,12 @@ h1{
  font-family: 'Playfair Display', cursive;
 }
 
+.carousel{
+    margin : 50px;
+    display : flex;
+    padding : 20px;
+}
+
 </style>
 
 
@@ -93,6 +99,15 @@ h1{
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
+</div>
+
+<div class="container text-center">
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores reprehenderit, quae obcaecati nemo quas, hic at incidunt beatae veritatis, neque maxime commodi praesentium inventore perspiciatis sed illo dignissimos. Autem laborum consequatur sed dolorum eaque aut, id laudantium porro neque, vitae tenetur saepe ex voluptatem ducimus sunt adipisci explicabo corrupti eum ullam quia nisi. Eius quas placeat, error sequi omnis assumenda adipisci temporibus voluptatum hic tenetur, neque soluta voluptatibus perspiciatis iste! Mollitia ratione omnis assumenda iusto repudiandae hic quae quibusdam harum accusamus velit ut beatae similique consequatur quisquam amet, placeat sint quis suscipit ea voluptatibus nihil consectetur architecto voluptatum. Quidem, quo.</p>
+</div>
+<br>
+
+<div class="">
+    <p></p>
 </div>
 
 
